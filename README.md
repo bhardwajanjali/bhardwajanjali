@@ -1,4 +1,4 @@
-![02](https://user-images.githubusercontent.com/98648970/166180404-66f8aa20-eb8d-4234-872f-5cca67b0ccf7.jpg)
+![02](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_sJRv_T_R77Dc8h4zb9KU0qDVftZMvZ5LoA&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Anjali Bhardwaj</h1>
 <h3 align="center">A passionate front end developer and DSA Lover.</h3>
