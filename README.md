@@ -1,4 +1,4 @@
-![02](https://codersera.com/blog/wp-content/uploads/2020/05/programming-languages-list.jpg)
+![02](https://w0.peakpx.com/wallpaper/832/433/HD-wallpaper-technology-code-python-programming-language-coding.jpg)
 
 <h1 align="center">Hi 👋, I'm Anjali Bhardwaj</h1>
 <h3 align="center">A passionate front end developer and DSA Lover.</h3>
