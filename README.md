@@ -1,4 +1,4 @@
-![02](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_sJRv_T_R77Dc8h4zb9KU0qDVftZMvZ5LoA&usqp=CAU)
+![02](https://codersera.com/blog/wp-content/uploads/2020/05/programming-languages-list.jpg)
 
 <h1 align="center">Hi 👋, I'm Anjali Bhardwaj</h1>
 <h3 align="center">A passionate front end developer and DSA Lover.</h3>
