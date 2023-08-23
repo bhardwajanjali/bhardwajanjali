@@ -1,7 +1,7 @@
 ![02](https://w0.peakpx.com/wallpaper/832/433/HD-wallpaper-technology-code-python-programming-language-coding.jpg)
 
 <h1 align="center">Hi 👋, I'm Anjali Bhardwaj</h1>
-<h3 align="center">A passionate front end developer and DSA Lover.</h3>
+<h3 align="center">I practice front end developement and dsa using cpp</h3>
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100"/>
 </div>
